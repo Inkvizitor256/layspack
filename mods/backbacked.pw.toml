@@ -1,8 +1,0 @@
-name = "backbacked"
-filename = "view"
-side = "both"
-
-[download]
-url = "https://drive.usercontent.google.com/u/0/uc?id=1DBy5li8BA0_XxW04MmtpcVUuSmn9L3A2&export=download"
-hash-format = "sha256"
-hash = "96ea7936fa0e26012249af2cb44686e0d8175fe6d244ac7c9b1409718bee9f82"
