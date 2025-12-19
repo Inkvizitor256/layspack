@@ -1,0 +1,8 @@
+name = "backbacked"
+filename = "backpacked-forge-1.20.1-2.2.8.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/2lq8yw37gpe8duzst3knq/backpacked-forge-1.20.1-2.2.8.jar?rlkey=grxchy250s2bvjrpa6xwe82y5&st=bc35s6as&dl=1"
+hash-format = "sha256"
+hash = "711d6834c41afbc921d8094ad793fde4f3e2953c582a19ddd11f13494fc8f41a"
