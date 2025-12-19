@@ -1,0 +1,8 @@
+name = "framework"
+filename = "view"
+side = "both"
+
+[download]
+url = "https://drive.google.com/file/d/1DBy5li8BA0_XxW04MmtpcVUuSmn9L3A2/view?usp=sharing"
+hash-format = "sha256"
+hash = "d8ce327e9a54505220ba325f58ca54e3dd88db4c3ca7a20d8593f92917c6331e"
