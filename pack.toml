@@ -1,0 +1,13 @@
+name = "layspack"
+author = "Kvizzz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f7ce96b2c49966f982747123404c3592e1ec42028af3aa2b2d29ee8697e49cb8"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
