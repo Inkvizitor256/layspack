@@ -250,11 +250,6 @@ hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "099a614fc791ed17aafb2efcfb882588837db2cc49af1953b983b1725e75017b"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
 metafile = true
